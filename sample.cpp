@@ -36,6 +36,6 @@ int main()
 	A o3;
 	o3 = o1+o2;
 	o3.display();
-
+// a = 5, b = 7
 	return 0;
 }
